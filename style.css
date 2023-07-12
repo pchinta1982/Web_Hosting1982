@@ -135,7 +135,7 @@ textarea {
   max-width: 120rem;
   margin: auto;
   width: 92%; }
-
+.
 .btn {
   background: #fff;
   color: #333;
@@ -144,7 +144,7 @@ textarea {
   display: inline-block;
   font-weight: 700;
   border-radius: 5px;
-  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0,15);
   transition: transform .3s; }
   .btn:hover {
     transform: translateY(-3px); }
@@ -185,7 +185,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background: linear-gradient(to right, #FFDCB6, rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, #331D2C, rgba(128, 0, 128)), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -702,3 +702,26 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+    .Andel {
+      color: #C4D7B2;
+      font-weight: bold;
+    }
+
+    .heading-sec__sub {
+      font-family: cursive;
+    }
+
+    .heading-sec__main {
+      font-family: Lucida Handwriting
+    }
+
+    .about__content-skills {
+      font-family: Georgia;
+      font-style: italic;
+      
+    }
+
+    .projects__row-content-title {
+      font-family: cursive;
+    }
